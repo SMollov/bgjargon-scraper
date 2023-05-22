@@ -9,13 +9,13 @@ BG Jargon Scraper е скрипт на Python, който ви позволяв�
 ```bash
 git clone https://github.com/SMollov/bgjargon-scraper.git
 ```
-2. Install the "requests" and "beautifulsoup4" dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Navigate to the repository directory: 
+2. Navigate to the repository directory: 
 ```bash
 cd bgjargon-scraper
+```
+3. Install the "requests" and "beautifulsoup4" dependencies:
+```bash
+pip install -r requirements.txt
 ```
 4. Run the script: 
 ```bash
